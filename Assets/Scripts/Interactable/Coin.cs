@@ -6,6 +6,6 @@ public class Coin : PickUp
 {
     protected override void OnPickUp()
     {
-        Debug.Log("gold picked up!");
+        Debug.Log("deez nuts!");
     }
 }
