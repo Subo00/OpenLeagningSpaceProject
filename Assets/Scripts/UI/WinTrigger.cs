@@ -16,7 +16,7 @@ public class WinTrigger : MonoBehaviour
             GetComponent<Collider>().enabled = false;
         }
     }
-
+    
     // Start is called before the first frame update
     void Start()
     {
